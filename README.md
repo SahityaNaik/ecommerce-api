@@ -36,25 +36,37 @@ Includes a **Node.js + Express** backend with **MongoDB** and **JWT-based role a
 
 These users can be used for testing login functionality:
 
-### Admin
 ```json
+// 🔐 Admin
 {
   "username": "admin1",
   "password": "pass123"
 }
 
-Customer
+// 👤 Customer
 {
   "username": "customer2",
   "password": "pass123"
 }
+```
 
-🖼️ Screenshots
-🛍️ Product List
+---
 
-🛒 Cart View
+## 🖼️ Screenshots
 
-📁 Project Structure
+🛍️ **Product List**  
+_View of all available products_
+
+🛒 **Cart View**  
+_Added products, quantity, and total price_
+
+(Screenshots are placed inside the `/screenshots` folder)
+
+---
+
+## 📁 Project Structure
+
+```
 /ecommerce-api-project
 ├── backend/
 │   ├── models/
@@ -71,4 +83,4 @@ Customer
 │   ├── product-list.png
 │   └── cart-view.png
 └── README.md
-
+```

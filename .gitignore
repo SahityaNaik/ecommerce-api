@@ -1,0 +1,6 @@
+# Common .gitignore for both backend and frontend
+node_modules/
+.env
+dist/
+.vscode/
+.DS_Store

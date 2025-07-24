@@ -1,6 +1,6 @@
 # 🛒 E-Commerce API + React Frontend
 
-A full-stack e-commerce web application built for the AdaptNXT assignment.  
+A full-stack e-commerce web application.  
 Includes a **Node.js + Express** backend with **MongoDB** and **JWT-based role authentication**, and a **React + Vite** frontend for a simple shopping experience: browse products, manage cart, and place orders.
 
 ---

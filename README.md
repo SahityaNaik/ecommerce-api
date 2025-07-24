@@ -50,20 +50,6 @@ These users can be used for testing login functionality:
 }
 ```
 
----
-
-## 🖼️ Screenshots
-
-🛍️ **Product List**  
-_View of all available products_
-
-🛒 **Cart View**  
-_Added products, quantity, and total price_
-
-(Screenshots are placed inside the `/screenshots` folder)
-
----
-
 ## 📁 Project Structure
 
 ```

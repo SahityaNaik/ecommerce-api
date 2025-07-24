@@ -64,6 +64,6 @@ These users can be used for testing login functionality:
 ├── frontend/
 │   ├── src/
 │   └── vite.config.js
-└── README.md
 └── .gitignore
+└── README.md
 ```
